@@ -43,6 +43,10 @@ Companion Robot is a **robot implemented on Arduino** that interacts with users 
 
 !Circuit Diagram (companion_circuit.png.jpeg)
 
+## Demo Video
+
+[Watch demo] (companion_bot.mp4.mp4)
+
 ## Author
 
 Abhiramisatheesan2509
